@@ -18,4 +18,8 @@ main {
 img {
   width: 80px;
   height: 80px;
+  margin: 0 auto;
+   border:4px solider #090435; 
+height:300px;
+  
 }
